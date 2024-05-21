@@ -1,0 +1,48 @@
+* {
+  font-family: "Noto Sans", "DejaVu Sans", sans-serif;
+}
+
+
+h1 {
+  color: burlywood;
+  background-color: black;
+  text-align: center;
+  font-size: 40px;
+}
+
+h2 {
+  color: azure;
+  background-color: rgb(215, 136, 136);
+}
+
+li.homepage {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+ul li {
+  color:crimson
+}
+
+.materials {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 60px;
+  color: blueviolet;
+  background-color: cyan;
+}
+
+#forgiveme {
+  font-size: 8px;
+  text-align: right;
+}
+
+#standards {
+  font-size: 8px;
+  font-style: italic;
+  color: lightslategray;
+}
+
+#oa-macros {
+  font-weight: bold;
+  color: goldenrod;
+}
